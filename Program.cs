@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace DS_LB1
 {
-    static class Program
+    static class Program//lox
     {
         /// <summary>
         /// The main entry point for the application.
